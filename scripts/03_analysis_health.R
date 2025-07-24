@@ -16,3 +16,5 @@ df <- pupq %>%
 # Regress headache on treatment assignment
 model <- lm(headache_98_45 ~ p98, data = df)
 summary(model)
+
+#table V	Deworming impact on health

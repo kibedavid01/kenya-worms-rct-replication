@@ -39,6 +39,13 @@ kenya-worms-rct-replication/
 ├── LICENSE
 └── README.md # This file
 
+This repo replicates key results from *Worms: Identifying Impacts on Education and Health...* using R in VS Code.
+
+### Contents
+- Reproduced tables: V, VIII, X
+- Clean sample construction
+- Code walkthroughs
+
 
 ## 📜 Citation
 

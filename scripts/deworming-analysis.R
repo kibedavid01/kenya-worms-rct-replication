@@ -7,5 +7,5 @@ library(tidyverse)
 library(haven)     # for reading .dta files
 library(fixest)    # for regressions
 
-df <- read_dta("wormed.dta")
+df <- read_dta("data/dta/wormed.dta")
 glimpse(df)
